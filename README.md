@@ -18,7 +18,7 @@
   <tr>
     <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
-    <td><img src="[https://img.shields.io/badge/python-3.6-blue.svg](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"></td>
+    <td><img src="https://img.shields.io/badge/python-3.6-blue.svg](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
   </tr>
 </table>
 
