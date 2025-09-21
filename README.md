@@ -18,7 +18,7 @@
   <tr>
     <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></td>
+    <td><img src="(https://img.shields.io/badge/python-3.6-blue.svg"></td>
   </tr>
 </table>
 
