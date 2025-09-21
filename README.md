@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Learning **C# & C++**
+- 🌱 Learning **C#, C++, Python**
 
 ---
 
