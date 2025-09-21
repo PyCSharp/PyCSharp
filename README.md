@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm <span style="color:#00BFFF">PyCSharp</span></h1>
+<h1 align="center">Hey 👋, I'm PyCSharp
 <h3 align="center">💻 Student & Developer | C#, C++, Python</h3>
 
 <p align="center">
