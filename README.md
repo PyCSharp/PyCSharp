@@ -1,33 +1,42 @@
-<h1 align="center">Hey 👋, I'm PyCSharp</h1>
-<h3 align="center">Student | C#, C++, Python</h3>
+<h1 align="center">Hey 👋, I'm <span style="color:#00BFFF">PyCSharp</span></h1>
+<h3 align="center">💻 Student & Developer | C#, C++, Python</h3>
 
 <p align="center">
-  <a href="https://github.com/PyCSharp"><img src="https://img.shields.io/github/followers/PyCSharp?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://discord.com/users/1389894085862490152"><img src="https://img.shields.io/badge/Discord-Online-purple?style=flat-square&logo=discord" alt="Discord"></a>
+  <a href="https://github.com/PyCSharp">
+    <img src="https://img.shields.io/github/followers/PyCSharp?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://discord.com/users/1389894085862490152">
+    <img src="https://img.shields.io/badge/Discord-Online-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Learning **C#, C++, Python**
+- 🌱 Currently learning **C#, C++, Python**
+- ⚡ Love building tools, experimenting, and hacking stuff together
+- 🎯 Always improving & sharing my journey
 
 ---
 
 ## 🛠️ Skills
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PyCSharp&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyCSharp&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=PyCSharp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyCSharp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
+
+## 🎵 Fun Touch
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem" alt="Spotify Now Playing"/>
+</p>
