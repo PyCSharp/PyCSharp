@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning **C#, C++, Python**
-- ⚡ Love building tools, experimenting, and hacking stuff together
+- ⚡ Love building tools, experimenting
 - 🎯 Always improving & sharing my journey
 
 ---
