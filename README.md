@@ -2,7 +2,7 @@
 <h3 align="center">Student | C#, C++, Python</h3>
 
 <p align="center">
-  <a href="https://github.com/Jannik"><img src="https://img.shields.io/github/followers/Jannik?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/PyCShaep"><img src="https://img.shields.io/github/followers/PyCSharp?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://discord.com/users/1389894085862490152"><img src="https://img.shields.io/badge/Discord-Online-purple?style=flat-square&logo=discord" alt="Discord"></a>
 </p>
 
@@ -26,8 +26,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jannik&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jannik&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=PyCSharp&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyCSharp&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
