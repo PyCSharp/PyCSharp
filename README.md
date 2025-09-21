@@ -33,10 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PyCSharp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyCSharp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
-
----
-
-## 🎵 Fun Touch
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem" alt="Spotify Now Playing"/>
-</p>
