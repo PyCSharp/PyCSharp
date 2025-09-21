@@ -2,7 +2,7 @@
 <h3 align="center">Student | C#, C++, Python</h3>
 
 <p align="center">
-  <a href="https://github.com/PyCShaep"><img src="https://img.shields.io/github/followers/PyCSharp?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/PyCSharp"><img src="https://img.shields.io/github/followers/PyCSharp?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://discord.com/users/1389894085862490152"><img src="https://img.shields.io/badge/Discord-Online-purple?style=flat-square&logo=discord" alt="Discord"></a>
 </p>
 
