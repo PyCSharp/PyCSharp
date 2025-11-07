@@ -17,6 +17,7 @@
 - ⚡ Love building tools, experimenting
 - 🎯 Always improving & sharing my journey
 - 🔧 Active in a **calculator modding community**: https://discord.gg/DScqwRvn5
+- 🎮 My game hacking discord server: https://discord.gg/5MtUnsJ7
 
 ---
 
