@@ -12,16 +12,16 @@
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **C#, C++, Python**
-- ⚡ Love building tools, experimenting
-- 🎯 Always improving & sharing my journey
-- 🔧 Active in a **calculator modding community**: https://discord.gg/DScqwRvn5
-- 🎮 My game hacking discord server: https://discord.gg/5MtUnsJ7
+##  About Me
+-  Currently learning **C#, C++, Python**
+-  Love building tools, experimenting
+-  Always improving & sharing my journey
+-  Active in a **calculator modding community**: https://discord.gg/DScqwRvn5
+-  My game hacking discord server: https://discord.gg/5MtUnsJ7
 
 ---
 
-## 🛠️ Skills
+##  Skills
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PyCSharp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyCSharp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
