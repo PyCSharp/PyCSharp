@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm PyCSharp
-<h3 align="center">💻 Student | C#, C++, Python</h3>
+<h3 align="center">Student | C#, C++, Python</h3>
 
 <p align="center">
   <a href="https://github.com/PyCSharp">
