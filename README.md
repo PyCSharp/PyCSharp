@@ -16,7 +16,7 @@
 -  Currently learning **C#, C++, Python**
 -  Love building tools, experimenting
 -  Always improving & sharing my journey
--  Active in a **calculator modding community**: https://discord.gg/DScqwRvn5
+-  Active in a **calculator modding community**: https://discord.gg/knpcNJTzpd
 -  My game hacking discord server: https://discord.gg/5MtUnsJ7
 
 ---
